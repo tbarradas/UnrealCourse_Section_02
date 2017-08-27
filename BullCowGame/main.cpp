@@ -19,7 +19,6 @@ void PlayGame();
 FText GetValidGuess();
 void PrintGuess(FText);
 void PrintGameSummary();
-int test; 
 FBullCowGame BCGame; //instantiate a new game which we reuse across games
 
 //the entrypoint for our app
