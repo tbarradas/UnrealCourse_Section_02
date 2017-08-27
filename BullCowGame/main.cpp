@@ -20,7 +20,7 @@ FText GetValidGuess();
 void PrintGuess(FText);
 void PrintGameSummary();
 FBullCowGame BCGame; //instantiate a new game which we reuse across games
-int integrationTest;
+
 //the entrypoint for our app
 int main()
 {
